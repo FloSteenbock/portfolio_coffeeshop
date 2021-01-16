@@ -1,0 +1,191 @@
+[
+  {
+    "id":"kaffee1",
+    "name":"Cold Brew",
+    "desc":"alles andere als kalter Kaffee",
+    "category":"kaffee",
+    "picturelarge":"styles/images/shop/kaffee-1-large.jpg",
+    "picturesmall":"styles/images/shop/kaffee-1-small.jpg",
+    "price":"3"
+  },
+  {
+    "id":"kaffee2",
+    "name":"Latte",
+    "desc":"mit Milch ist alles besser",
+    "category":"kaffee",
+    "picturelarge":"styles/images/shop/kaffee-2-large.jpg",
+    "picturesmall":"styles/images/shop/kaffee-2-small.jpg",
+    "price":"4"
+  },
+  {
+    "id":"kaffee3",
+    "name":"Filterkaffee",
+    "desc":"ein Klassiker",
+    "category":"kaffee",
+    "picturelarge":"styles/images/shop/kaffee-3-large.jpg",
+    "picturesmall":"styles/images/shop/kaffee-3-small.jpg",
+    "price":"2"
+  },
+  {
+    "id":"kaffee4",
+    "name":"Frapino",
+    "desc":"der Favorit unserer Kunden",
+    "category":"kaffee",
+    "picturelarge":"styles/images/shop/kaffee-4-large.jpg",
+    "picturesmall":"styles/images/shop/kaffee-4-small.jpg",
+    "price":"4"
+  },
+  {
+    "id":"kuchen1",
+    "name":"Schokotorte",
+    "desc":"auch für stattliche Personen ausreichend",
+    "category":"kuchen",
+    "picturelarge":"styles/images/shop/kuchen-1-large.jpg",
+    "picturesmall":"styles/images/shop/kuchen-1-small.jpg",
+    "price":"3"
+  },
+  {
+    "id":"kuchen2",
+    "name":"Brownie",
+    "desc":"mit genug Schokolade",
+    "category":"kuchen",
+    "picturelarge":"styles/images/shop/kuchen-2-large.jpg",
+    "picturesmall":"styles/images/shop/kuchen-2-small.jpg",
+    "price":"2"
+  },
+  {
+    "id":"kuchen3",
+    "name":"Pink Panther",
+    "desc":"für die Kleinen etwas Buntes",
+    "category":"kuchen",
+    "picturelarge":"styles/images/shop/kuchen-3-large.jpg",
+    "picturesmall":"styles/images/shop/kuchen-3-small.jpg",
+    "price":"2"
+  },
+  {
+    "id":"lunch1",
+    "name":"Salat",
+    "desc":"die gesunde Variante",
+    "category":"lunch",
+    "picturelarge":"styles/images/shop/lunch-1-large.jpg",
+    "picturesmall":"styles/images/shop/lunch-1-small.jpg",
+    "price":"5"
+  },
+  {
+    "id":"lunch2",
+    "name":"Spaghetti",
+    "desc":"Italiener schwören auf diese Nudel",
+    "category":"lunch",
+    "picturelarge":"styles/images/shop/lunch-2-large.jpg",
+    "picturesmall":"styles/images/shop/lunch-2-small.jpg",
+    "price":"6"
+  },
+  {
+    "id":"lunch3",
+    "name":"Pizza",
+    "desc":"knuspriger Teig, viel Belag",
+    "category":"lunch",
+    "picturelarge":"styles/images/shop/lunch-3-large.jpg",
+    "picturesmall":"styles/images/shop/lunch-3-small.jpg",
+    "price":"7"
+  },
+  {
+    "id":"lunch4",
+    "name":"Hamburger",
+    "desc":"mit Pommes als Beilage",
+    "category":"lunch",
+    "picturelarge":"styles/images/shop/lunch-4-large.jpg",
+    "picturesmall":"styles/images/shop/lunch-4-small.jpg",
+    "price":"8"
+  },
+  {
+    "id":"saft1",
+    "name":"Kiwi-Saft",
+    "desc":"das Beste aus der Kiwi",
+    "category":"saft",
+    "picturelarge":"styles/images/shop/saft-1-large.jpg",
+    "picturesmall":"styles/images/shop/saft-1-small.jpg",
+    "price":"3"
+  },
+  {
+    "id":"saft2",
+    "name":"Karotten-Saft",
+    "desc":"das Beste aus der Karotte",
+    "category":"saft",
+    "picturelarge":"styles/images/shop/saft-2-large.jpg",
+    "picturesmall":"styles/images/shop/saft-2-small.jpg",
+    "price":"3"
+  },
+  {
+    "id":"saft3",
+    "name":"Melonen-Saft",
+    "desc":"das Beste aus der Melone",
+    "category":"saft",
+    "picturelarge":"styles/images/shop/saft-3-large.jpg",
+    "picturesmall":"styles/images/shop/saft-3-small.jpg",
+    "price":"3"
+  },
+  {
+    "id":"sweets1",
+    "name":"Macarons",
+    "desc":"die süße Verführung aus Frankreich",
+    "category":"sweets",
+    "picturelarge":"styles/images/shop/sweets-1-large.jpg",
+    "picturesmall":"styles/images/shop/sweets-1-small.jpg",
+    "price":"2"
+  },
+  {
+    "id":"sweets2",
+    "name":"Eiscreme",
+    "desc":"am besten kalt genießen :)",
+    "category":"sweets",
+    "picturelarge":"styles/images/shop/sweets-2-large.jpg",
+    "picturesmall":"styles/images/shop/sweets-2-small.jpg",
+    "price":"3"
+  },
+  {
+    "id":"sweets3",
+    "name":"Schokomousse",
+    "desc":"mehr Schokolade geht nicht",
+    "category":"sweets",
+    "picturelarge":"styles/images/shop/sweets-3-large.jpg",
+    "picturesmall":"styles/images/shop/sweets-3-small.jpg",
+    "price":"4"
+  },
+  {
+    "id":"tee1",
+    "name":"Erdbeer-Tee",
+    "desc":"wird eisgekühlt serviert",
+    "category":"tee",
+    "picturelarge":"styles/images/shop/tee-1-large.jpg",
+    "picturesmall":"styles/images/shop/tee-1-small.jpg",
+    "price":"3"
+  },
+  {
+    "id":"tee2",
+    "name":"Himbeer-Tee",
+    "desc":"aus frischen Früchten",
+    "category":"tee",
+    "picturelarge":"styles/images/shop/tee-2-large.jpg",
+    "picturesmall":"styles/images/shop/tee-2-small.jpg",
+    "price":"3"
+  },
+  {
+    "id":"tee3",
+    "name":"Kräuter-Tee",
+    "desc":"mit vielen verschiedenen Kräutern",
+    "category":"tee",
+    "picturelarge":"styles/images/shop/tee-3-large.jpg",
+    "picturesmall":"styles/images/shop/tee-3-small.jpg",
+    "price":"3"
+  },
+  {
+    "id":"tee4",
+    "name":"Minz-Tee",
+    "desc":"danach kann kräftig durchgeatmet werden",
+    "category":"tee",
+    "picturelarge":"styles/images/shop/tee-4-large.jpg",
+    "picturesmall":"styles/images/shop/tee-4-small.jpg",
+    "price":"3"
+  }
+]
